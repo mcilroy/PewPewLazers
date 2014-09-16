@@ -1,0 +1,340 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline" xmlns:Graphics="Microsoft.Xna.Framework.Graphics" xmlns:Processors="Microsoft.Xna.Framework.Content.Pipeline.Processors">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Fonts\SpriteFont1.spritefont</Source>
+      <Name>Fonts\SpriteFont1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Stu\Documents\3501 Game\PewPewLazers\bin\x86\Debug\Content\Fonts\SpriteFont1.xnb</Output>
+      <Time>2010-12-03T21:43:57.8630739-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\menuLarge.spritefont</Source>
+      <Name>Fonts\menuLarge</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Stu\Documents\3501 Game\PewPewLazers\bin\x86\Debug\Content\Fonts\menuLarge.xnb</Output>
+      <Time>2010-12-03T21:43:58.5731145-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\menuSmall.spritefont</Source>
+      <Name>Fonts\menuSmall</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Stu\Documents\3501 Game\PewPewLazers\bin\x86\Debug\Content\Fonts\menuSmall.xnb</Output>
+      <Time>2010-12-03T21:43:58.2530962-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\menuHuge.spritefont</Source>
+      <Name>Fonts\menuHuge</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Stu\Documents\3501 Game\PewPewLazers\bin\x86\Debug\Content\Fonts\menuHuge.xnb</Output>
+      <Time>2010-12-03T21:43:58.633118-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\space512.png</Source>
+      <Name>Images\space512</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Stu\Documents\3501 Game\PewPewLazers\bin\x86\Debug\Content\Images\space512.xnb</Output>
+      <Time>2010-12-03T21:43:45.7253797-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\menubackground.png</Source>
+      <Name>Images\menubackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Stu\Documents\3501 Game\PewPewLazers\bin\x86\Debug\Content\Images\menubackground.xnb</Output>
+      <Time>2010-12-03T21:43:52.4767658-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\title.png</Source>
+      <Name>Images\title</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Stu\Documents\3501 Game\PewPewLazers\bin\x86\Debug\Content\Images\title.xnb</Output>
+      <Time>2010-12-03T21:43:40.7320941-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\terrain1.bmp</Source>
+      <Name>Images\terrain1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Stu\Documents\3501 Game\PewPewLazers\bin\x86\Debug\Content\Images\terrain1.xnb</Output>
+      <Time>2010-12-03T21:43:44.7633247-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\fbx\spaceA.bmp</Source>
+      <Name>Models\fbx\spaceA</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Stu\Documents\3501 Game\PewPewLazers\bin\x86\Debug\Content\Models\fbx\spaceA.xnb</Output>
+      <Time>2010-12-03T21:43:32.5186243-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\snow.bmp</Source>
+      <Name>Images\snow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Stu\Documents\3501 Game\PewPewLazers\bin\x86\Debug\Content\Images\snow.xnb</Output>
+      <Time>2010-12-03T21:43:50.1806345-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\fbx\asteroid.bmp</Source>
+      <Name>Models\fbx\asteroid</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Stu\Documents\3501 Game\PewPewLazers\bin\x86\Debug\Content\Models\fbx\asteroid.xnb</Output>
+      <Time>2010-12-03T21:43:32.8176414-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\target.png</Source>
+      <Name>Images\target</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Stu\Documents\3501 Game\PewPewLazers\bin\x86\Debug\Content\Images\target.xnb</Output>
+      <Time>2010-12-03T21:43:45.1003439-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\particle.png</Source>
+      <Name>Images\particle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Stu\Documents\3501 Game\PewPewLazers\bin\x86\Debug\Content\Images\particle.xnb</Output>
+      <Time>2010-12-03T21:43:52.1067447-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\rocktexture.png</Source>
+      <Name>Images\rocktexture</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Stu\Documents\3501 Game\PewPewLazers\bin\x86\Debug\Content\Images\rocktexture.xnb</Output>
+      <Time>2010-12-03T21:43:55.5769432-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Shaders\TextureNormal.fx</Source>
+      <Name>Shaders\TextureNormal</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Stu\Documents\3501 Game\PewPewLazers\bin\x86\Debug\Content\Shaders\TextureNormal.xnb</Output>
+      <Time>2010-12-03T21:43:34.9467632-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Shaders\Texture.fx</Source>
+      <Name>Shaders\Texture</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Stu\Documents\3501 Game\PewPewLazers\bin\x86\Debug\Content\Shaders\Texture.xnb</Output>
+      <Time>2010-12-03T21:43:35.6438031-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Shaders\particle.fx</Source>
+      <Name>Shaders\particle</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Stu\Documents\3501 Game\PewPewLazers\bin\x86\Debug\Content\Shaders\particle.xnb</Output>
+      <Time>2010-12-03T21:43:35.974822-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\alien2.fbx</Source>
+      <Name>Models\alien2</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Stu\Documents\3501 Game\PewPewLazers\bin\x86\Debug\Content\Models\alien2.xnb</Output>
+      <Time>2010-12-03T21:43:57.6690628-05:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\alien2_0.xml</Key>
+        <Value>2012-02-09T21:31:50.3008311-05:00</Value>
+      </Dependency>
+      <Request>C:\Users\Stu\Documents\3501 Game\PewPewLazers\bin\x86\Debug\Content\Models\fbx\spaceA_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\asteroidWorking.x</Source>
+      <Name>Models\asteroidWorking</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Stu\Documents\3501 Game\PewPewLazers\bin\x86\Debug\Content\Models\asteroidWorking.xnb</Output>
+      <Time>2010-12-03T21:43:53.8168425-05:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\asteroidWorking_0.xml</Key>
+        <Value>2012-02-09T21:31:50.9138661-05:00</Value>
+      </Dependency>
+      <Request>C:\Users\Stu\Documents\3501 Game\PewPewLazers\bin\x86\Debug\Content\Models\asteroid_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\asteroidWorking2.x</Source>
+      <Name>Models\asteroidWorking2</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Stu\Documents\3501 Game\PewPewLazers\bin\x86\Debug\Content\Models\asteroidWorking2.xnb</Output>
+      <Time>2010-12-03T21:43:53.1888066-05:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\asteroidWorking2_0.xml</Key>
+        <Value>2012-02-09T21:31:51.1848816-05:00</Value>
+      </Dependency>
+      <Request>C:\Users\Stu\Documents\3501 Game\PewPewLazers\bin\x86\Debug\Content\Models\asteroid_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\alien1.x</Source>
+      <Name>Models\alien1</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Stu\Documents\3501 Game\PewPewLazers\bin\x86\Debug\Content\Models\alien1.xnb</Output>
+      <Time>2010-12-03T21:43:57.5290548-05:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\alien1_0.xml</Key>
+        <Value>2012-02-09T21:31:51.3048885-05:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Sound\laser.wav</Source>
+      <Name>Sound\laser</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Stu\Documents\3501 Game\PewPewLazers\bin\x86\Debug\Content\Sound\laser.xnb</Output>
+      <Time>2010-12-03T21:43:40.276068-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\startMusic.mp3</Source>
+      <Name>Sound\startMusic</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Stu\Documents\3501 Game\PewPewLazers\bin\x86\Debug\Content\Sound\startMusic.xnb</Output>
+      <Extra>C:\Users\Stu\Documents\3501 Game\PewPewLazers\bin\x86\Debug\Content\Sound\startMusic.wma</Extra>
+      <Time>2010-12-03T21:43:39.6130301-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\level1Music.mp3</Source>
+      <Name>Sound\level1Music</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Stu\Documents\3501 Game\PewPewLazers\bin\x86\Debug\Content\Sound\level1Music.xnb</Output>
+      <Extra>C:\Users\Stu\Documents\3501 Game\PewPewLazers\bin\x86\Debug\Content\Sound\level1Music.wma</Extra>
+      <Time>2010-12-03T21:43:51.7867264-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\alien2.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\alien2_0.xml</Output>
+      <Time>2010-12-03T21:43:57.6690628-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\fbx\spaceA.bmp</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Stu\Documents\3501 Game\PewPewLazers\bin\x86\Debug\Content\Models\fbx\spaceA_0.xnb</Output>
+      <Time>2010-12-03T21:43:32.5186243-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\asteroidWorking.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\asteroidWorking_0.xml</Output>
+      <Time>2010-12-03T21:43:53.8168425-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\asteroid.bmp</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Stu\Documents\3501 Game\PewPewLazers\bin\x86\Debug\Content\Models\asteroid_0.xnb</Output>
+      <Time>2010-12-03T21:43:32.8176414-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\asteroidWorking2.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\asteroidWorking2_0.xml</Output>
+      <Time>2010-12-03T21:43:53.1888066-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\alien1.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\alien1_0.xml</Output>
+      <Time>2010-12-03T21:43:57.5290548-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Stu\Documents\3501 Game\PewPewLazers\Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Stu\Documents\3501 Game\PewPewLazers\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Stu\Documents\3501 Game\PewPewLazers\Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Stu\Documents\3501 Game\PewPewLazers\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2009-05-28T00:16:14-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2009-05-28T00:16:06-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2009-05-28T00:16:16-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2009-05-28T00:16:26-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2009-05-28T00:16:12-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2009-05-28T00:16:06-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\3.1.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2010-04-29T13:55:12.809626-04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

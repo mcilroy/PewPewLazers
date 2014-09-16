@@ -1,0 +1,2 @@
+C:\Users\Stu\Documents\Game\PewPewLazers\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Stu\Documents\3501 Game\PewPewLazers\Content\obj\x86\Debug\ResolveAssemblyReference.cache
